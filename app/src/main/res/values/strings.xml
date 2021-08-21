@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="takeph">Take a Photo</string>
+    <string name="img">imageView1</string>
+</resources>
